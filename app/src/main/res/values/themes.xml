@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Degisken_olusturma" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.B2_8_DegıskenOlusturmaCesıtlerı" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.DegiskenKapsami" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.B2_10_Sabitler" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.B2_12_AritmetikOperatorler" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
