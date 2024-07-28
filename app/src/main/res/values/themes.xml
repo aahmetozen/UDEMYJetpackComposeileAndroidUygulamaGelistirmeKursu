@@ -10,4 +10,6 @@
     <style name="Theme.B2_10_Sabitler" parent="android:Theme.Material.Light.NoActionBar" />
 
     <style name="Theme.B2_12_AritmetikOperatorler" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.B10_Jetpack_Compose_Tasarim" parent="android:Theme.Material.Light.NoActionBar" />
 </resources>

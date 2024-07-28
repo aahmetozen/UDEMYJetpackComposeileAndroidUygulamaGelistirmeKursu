@@ -16,7 +16,7 @@
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.B2_12_AritmetikOperatorler">
+            android:theme="@style/Theme.B10_Jetpack_Compose_Tasarim">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
